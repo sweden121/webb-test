@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  main {
+    text-align: center;
+    height: 100%;
+  }
+  div {
+    font-size: larger;
+    margin: auto;
+    width: auto;
+    position: relative;
+  }
+
+  .navbar li {
+    font-size: 25px;
+    display: inline-block;
+  }
+  body {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    background: url("791275.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+  div {
+    font-size: larger;
+    text-align: center;
+    margin: auto;
+    width: auto;
+    position: relative;
+    top: 80%;
+  }
